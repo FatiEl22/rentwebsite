@@ -1,0 +1,16 @@
+img{
+    
+ width: 400px;
+
+    border-radius: 30px;
+    padding: 1rem;
+  }
+
+  .styleinfo{
+
+
+    color:cadetblue;
+    font-size: medium;
+    font-weight: 400px;
+    padding-left: 2rem;
+  }
